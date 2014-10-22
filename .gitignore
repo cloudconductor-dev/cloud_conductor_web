@@ -1,0 +1,7 @@
+# Ignore external javascript libralies
+/public/js/ext
+
+# Ignore auto generated files
+public/js/template.js
+public/_SpecRunner.html
+public/css
